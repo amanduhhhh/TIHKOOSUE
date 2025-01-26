@@ -5,8 +5,8 @@
  */
 
 public final class Constants{
-    public static final int WIDTH = 1000 + 17;
-    public static final int HEIGHT = 600 + 47;
+    public static final int WIDTH = 1000 + 15;
+    public static final int HEIGHT = 600 + 38;
     public static final int FRAME_PERIOD = 70;
     public static final int FISH_SHIFT_EASY = 10;
     public static final int FISH_SHIFT_MEDIUM = 20;

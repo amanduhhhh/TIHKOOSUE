@@ -1,3 +1,5 @@
 hello: 1 
-amanda:1800
-hello:2200
+amanda:420
+
+hi:2750
+Amanda:1400
